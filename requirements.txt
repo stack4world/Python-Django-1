@@ -37,7 +37,7 @@ python-mimeparse==1.6.0
 python-utils==2.2.0
 python3-utils==0.4.0
 pytz==2017.3
-PyYAML==3.12
+PyYAML==5.4
 realtime-stock==1.0.0
 requests==2.18.4
 simplejson==3.13.2
