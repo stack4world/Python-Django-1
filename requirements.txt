@@ -46,7 +46,7 @@ stripe==1.77.1
 suds-jurko==0.6
 ua-parser==0.7.3
 Unidecode==1.0.22
-urllib3==1.22
+urllib3==1.26.5
 user-agents==1.1.0
 xmltodict==0.11.0
 django-payments==0.12.3
